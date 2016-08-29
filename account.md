@@ -1,14 +1,15 @@
 *默认货币为RMB
 
-| Date             | Cash Change    | Cash Balance  | Btc Change    | Btc Balance   | Remarks
-| 2015.08.25       | + 659.39       | 659.39        | 0             | 0             | Adsense Incomes
-| 2015.08.25       | - 659.39       | 0             | + 659.39      | 659.39        | Buy BTC/LTC
-| 2015.09.29       | 0              | 0             | + 51.89       | 711.28        | BTC/LTC Balance
-| 2015.10.30       | 0              | 0             | - 6.48        | 704.80        | BTC/LTC Balance
-| 2015.11.29       | 0              | 0             | + 8.46        | 713.26        | BTC/LTC Balance
-| 2015.12.30       | 0              | 0             | + 23.35       | 736.61        | BTC/LTC Balance
-| 2016.01.16       | 0              | 0             | + 130.39      | 867           | BTC/LTC Balance
-| 2016.01.16       | + 199          | 199           | - 200         | 667           | Withdraw, fee ￥1
+| Date             | Cash Change    | Cash Balance  | Btc Change    | Btc Balance   | Remarks            |
+| ---------------- |:--------------:|:-------------:|:-------------:|:-------------:| ------------------:|
+| 2015.08.25       | + 659.39       | 659.39        | 0             | 0             | Adsense Incomes    |
+| 2015.08.25       | - 659.39       | 0             | + 659.39      | 659.39        | Buy BTC/LTC        |
+| 2015.09.29       | 0              | 0             | + 51.89       | 711.28        | BTC/LTC Balance    |
+| 2015.10.30       | 0              | 0             | - 6.48        | 704.80        | BTC/LTC Balance    |
+| 2015.11.29       | 0              | 0             | + 8.46        | 713.26        | BTC/LTC Balance    |
+| 2015.12.30       | 0              | 0             | + 23.35       | 736.61        | BTC/LTC Balance    |
+| 2016.01.16       | 0              | 0             | + 130.39      | 867           | BTC/LTC Balance    |
+| 2016.01.16       | + 199          | 199           | - 200         | 667           | Withdraw, fee ￥1  |
 
 ```
 --2016.01.18--
