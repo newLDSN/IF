@@ -173,7 +173,7 @@ Btc结余： 294.71
 Btc变动：0
 Btc结余： 294.71
 Ripple变动：+550.23 XRP
-Ripple结余： 550.23 XRP(price: 1.1523), 0.79 CNY
+Ripple结余： 550.23 XRP(price: 1.1523), 200.79 CNY
 总共结余：1135.55
 
 ```
