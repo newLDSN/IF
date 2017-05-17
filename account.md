@@ -194,4 +194,11 @@ Ripple变动：+305.32 CNY
 Ripple结余： 550.23 XRP(buy price: 1.1523, current price: 1.2029), 546.95 CNY
 总共结余：1208.82
 
+--2017.05.11--
+现金变动： 0
+现金结余：0
+Ripple变动：-252.9CNY , +100XRP (price: 2.529)
+Ripple结余： 650.23 XRP(current price: 2.5296), 294.05 CNY
+总共结余：1938.87
+
 ```
