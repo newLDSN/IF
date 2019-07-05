@@ -256,5 +256,15 @@ Ripple账户结余: 20 XRP
 OKEX账户结余: 2747 XRP, 81565 YOYO
 备注: XRP 转为 YOYO
 
+--2019.07.05--
+现金变动: 0
+现金结余: 0
+OKEX变动: -81565 YOYO(手续费: 1 YOYO)
+Ripple账户结余: 20 XRP
+OKEX账户结余: 2747 XRP
+创建YOYO见证人: -1000 YOYO
+YOYO账户: 80564 YOYO
+备注: 创建YOYO见证人(https://explorer.yoyow.org/u/479727919)
+
 
 ```
