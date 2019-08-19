@@ -266,5 +266,14 @@ OKEX账户结余: 2747 XRP
 YOYO账户: 80564 YOYO
 备注: 创建YOYO见证人(https://explorer.yoyow.org/u/479727919)
 
+--2019.08.06--
+现金变动: 0
+现金结余: 0
+OKEX变动: -40,589.344 YOYO(提现手续费: 1 YOYO，由2000 XRP兑换)
+OKEX账户结余: 2747 XRP
+YOYO账户: +40,588.344 YOYO
+
+-
+
 
 ```
