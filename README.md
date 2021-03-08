@@ -1,4 +1,4 @@
 # IF
 Inner Foundation
 
-接受捐助: Ripple: rEcBEok66SNoUTbPvj3YGA4h6M6sZTwUw9
+接受捐助: STEEM: [@ldsn001](https://steemit.com/@ldsn001)
