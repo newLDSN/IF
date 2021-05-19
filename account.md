@@ -297,4 +297,14 @@ YOYO账户结余: 0 YOYO
 STEEM账户变动: + 15638 SP
 STEEM账户结余: 15638 SP (https://steemit.com/@ldsn001)
 
+--2021.05.19--
+现金变动: 0
+现金结余: 0
+STEEM账户变动: - 4000 SP
+STEEM账户结余: 15093 SP (https://steemit.com/@ldsn001)
+抹茶变动: + 4000 STEEM
+抹茶结余: 4000 STEEM
+TRON冻结: 8119 TRX (TLP3mvGzRMAU9sZ1Gopjqa8zzDRyjSqhdF)
+TRON-USDT结余: 165 USDT
+
 ```
