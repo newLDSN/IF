@@ -307,4 +307,14 @@ STEEM账户结余: 15093 SP (https://steemit.com/@ldsn001)
 TRON冻结: 8119 TRX (TLP3mvGzRMAU9sZ1Gopjqa8zzDRyjSqhdF)
 TRON-USDT结余: 165 USDT
 
+-- 2021.09.04 --
+现金结余：0 CNY
+STEEM 账号 SP 余额: 13333.227 SP
+抹茶交易所爆仓，余额: 0
+TRON 冻结: 8119 TRX
+TRON-TRX结余: 1954 TRX
+TRON-USDT结余: 80 USDT
+火币 USDT 结余: 1991 USDT
+
+
 ```
