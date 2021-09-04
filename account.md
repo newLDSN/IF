@@ -316,5 +316,25 @@ TRON-TRX结余: 1954 TRX
 TRON-USDT结余: 80 USDT
 火币 USDT 结余: 1991 USDT
 
+-- 2021.09.04 --
+现金结余：0 CNY
+STEEM 账号 SP 余额: 13333.227 SP
+TRON 冻结: 8119 TRX
+火币 USDT 结余: 2190 USDT (卖出 1954 TRX)
+
+-- 2021.09.04 -- 
+支出 5300 CNY ，购置二手服务器，按照 6.3 汇率计算，841 USDT
+火币结余 1349 USDT
+
+-- 2021.09.04 --
+火币 1349 USDT操作记录: 
+1. 买入 2.195 HT
+2. 剩余资金卖出 50% 获取 HUSD，最终 658 HUSD，658 USDT
+3. 创建 HECO 地址: 0xF5F927a7a3dCE73122fBCd2DAc96f5Bdcf63bcB0
+4. 提币 HT/HUSD/USDT
+5. Deposit 0.006506659408230133 HUSD/USDT LP Success
+
+
+
 
 ```
