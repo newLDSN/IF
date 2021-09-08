@@ -334,6 +334,12 @@ TRON 冻结: 8119 TRX
 4. 提币 HT/HUSD/USDT
 5. Deposit 0.006506659408230133 HUSD/USDT LP Success
 
+-- 2021.09.04 --
+heco抵押操作记录: 
+1. 取消抵押，回拢 1316 USDT
+2. 买入 15345.946 TRX
+3. 开 TRX 币本位一倍多
+
 
 
 
